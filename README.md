@@ -4,7 +4,6 @@
 
 # Simple Chat Application
 ```
-```
 SV thực hiện: 
    Ngô Ngọc Sơn - 21CE113
 ```
