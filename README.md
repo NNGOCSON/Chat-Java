@@ -3,8 +3,6 @@
 ## Bài tập lớn 1
 
 # Simple Chat Application
-
-```
 ```
 ```
 SV thực hiện: 
